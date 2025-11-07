@@ -1,8 +1,17 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mincHR549/mincHR549/refs/heads/main/a.jpg" 
-       width="180" height="180" 
-       style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  <div style="
+       width: 180px;
+       height: 180px;
+       border-radius: 50%;
+       overflow: hidden;
+       box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+       display: inline-block;
+     ">
+    <img src="https://raw.githubusercontent.com/mincHR549/mincHR549/refs/heads/main/a.jpg"
+         style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
 </p>
+
 
 <h1 align="center">Hi, I'm Hao</h1>
 <h3 align="center"><strong style="color:#C0343A">喜欢摸鱼的小浩 · Java 后端工程师</strong></h3>
