@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mincHR549/mincHR549/refs/heads/main/a.jpg"
+  <img src="https://avatars.githubusercontent.com/u/152802566?v=4"
        width="180" height="180"
        style="
            border-radius: 50%;
