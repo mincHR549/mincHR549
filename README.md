@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mincHR549/mincHR549/refs/heads/main/a.jpg" width="180" />
+  <img src="https://raw.githubusercontent.com/mincHR549/mincHR549/refs/heads/main/a.jpg" 
+       width="180" height="180" 
+       style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </p>
 
 <h1 align="center">Hi, I'm Hao</h1>
@@ -18,21 +20,15 @@
 
 ---
 
-## 🧰 技术栈
+## 🧰 技能熟练度
 
-**语言 / Language**  
-<img src="https://img.shields.io/badge/Java-%23C0343A?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-**Minecraft API**  
-<img src="https://img.shields.io/badge/Bukkit-%23C0343A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spigot-%23C0343A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Paper-%23C0343A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Purpur-%23C0343A?style=for-the-badge"/>
-
-**工具 / Tools**  
-<img src="https://img.shields.io/badge/Maven-%23C0343A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-%23C0343A?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-%23C0343A?style=for-the-badge&logo=docker&logoColor=white"/>
+| 技能 | 熟练度 |
+|-------|--------|
+| Java <img src="https://img.shields.io/badge/Java-90%25-#C0343A" title="熟练使用 Java 开发后端和 Minecraft 插件"/> | ██████████ 90% |
+| Bukkit <img src="https://img.shields.io/badge/Bukkit-80%25-#C0343A" title="熟悉 Bukkit API 开发游戏功能"/> | █████████ 80% |
+| Spigot <img src="https://img.shields.io/badge/Spigot-70%25-#C0343A" title="熟悉 Spigot 插件开发"/> | ████████ 70% |
+| Paper <img src="https://img.shields.io/badge/Paper-60%25-#C0343A" title="了解 Paper 性能优化和插件开发"/> | ███████ 60% |
+| Purpur <img src="https://img.shields.io/badge/Purpur-50%25-#C0343A" title="了解 Purpur 高级功能"/> | ██████ 50% |
 
 ---
 
@@ -65,5 +61,23 @@
 > 摸鱼不是放弃，而是维持创造力的热度
 
 <p align="center">
-  <img src="https://img.shields.io/badge/今日摸鱼-999min-%23C0343A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/今日摸鱼-999min-%23C0343A?style=for-the-badge" title="摸鱼热度保持创造力"/>
 </p>
+
+---
+
+## ⚡ 工具 & 技术栈
+
+**语言 / Language**  
+<img src="https://img.shields.io/badge/Java-%23C0343A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+**Minecraft API**  
+<img src="https://img.shields.io/badge/Bukkit-%23C0343A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spigot-%23C0343A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Paper-%23C0343A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Purpur-%23C0343A?style=for-the-badge"/>
+
+**工具 / Tools**  
+<img src="https://img.shields.io/badge/Maven-%23C0343A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-%23C0343A?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-%23C0343A?style=for-the-badge&logo=docker&logoColor=white"/>
