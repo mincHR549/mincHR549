@@ -4,7 +4,39 @@
 
 <h1 align="center">Hi, I'm Hao</h1>
 <h3 align="center"><strong style="color:#C0343A">喜欢摸鱼的小浩 · Java 后端工程师</strong></h3>
-<br/>
+
+<p align="center"><strong style="color:#C0343A">我写的每一行代码，都希望成为某个玩家快乐的底层基建。</strong></p>
+
+---
+
+## 🚀 关于我
+
+- 高中生，热爱编程与 Minecraft 开发
+- Java 后端 / Minecraft 服务端 / Web 开发
+- 方向：高性能、可观测、可维护、可复用
+- 擅长使用 Paper / Spigot / Purpur / Bukkit 生态 API
+
+---
+
+## 🧰 技术栈
+
+**语言 / Language**  
+<img src="https://img.shields.io/badge/Java-%23C0343A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+**Minecraft API**  
+<img src="https://img.shields.io/badge/Bukkit-%23C0343A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spigot-%23C0343A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Paper-%23C0343A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Purpur-%23C0343A?style=for-the-badge"/>
+
+**工具 / Tools**  
+<img src="https://img.shields.io/badge/Maven-%23C0343A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-%23C0343A?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-%23C0343A?style=for-the-badge&logo=docker&logoColor=white"/>
+
+---
+
+## 📊 GitHub 数据
 
 <p align="center">
   <a href="https://github.com/mincHR549">
@@ -20,30 +52,11 @@
 
 ---
 
-## 🔥 Lava Contribution Animation
+## 🔥 活跃度 / Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-## 🚀 Profile
-
-- Java 后端 / Minecraft 服务端开发 / Web 开发
-- 擅长 Paper / Spigot / Purpur / Bukkit
-- 注重代码质量 / 稳定性 / 性能
-
----
-
-## 🧠 正在关注
-
-| topic | 方向 |
-|---|---|
-| JVM | JIT / GC / perf |
-| 并发 | lock-free / CAS / actor |
-| 可观测性 | tracing / metric / log |
-| 高性能 | Zero-Copy / I/O path / native perf |
 
 ---
 
@@ -54,5 +67,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/今日摸鱼-999min-%23C0343A?style=for-the-badge" />
 </p>
-
----
