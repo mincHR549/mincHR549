@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/152802566?v=4"
-       width="180" height="180"
-       style="
-           border-radius: 50%;
-           object-fit: cover;
-           box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-           border: 4px solid #fff;
-       " />
-</p>
-
-
 <h1 align="center">Hi, I'm Hao</h1>
 <h3 align="center"><strong style="color:#C0343A">喜欢摸鱼的小浩 · Java 后端工程师</strong></h3>
 
